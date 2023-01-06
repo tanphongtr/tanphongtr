@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+```
+Joined GitHub
+on March 20, 2015
+```
+
 <!--
 **tanphongtr/tanphongtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
