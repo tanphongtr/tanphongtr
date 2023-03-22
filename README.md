@@ -2,10 +2,6 @@
 
 <a href="https://app.daily.dev/tanphongtr"><img src="https://api.daily.dev/devcards/5da07b88762c4d63996eacf5dfd18af3.png?r=shg" width="400" alt="Phong Trần's Dev Card"/></a>
 
-```
-Joined GitHub
-on March 20, 2015
-```
 
 <!--
 **tanphongtr/tanphongtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
